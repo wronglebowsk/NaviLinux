@@ -1,6 +1,7 @@
 # NaviLinux Setup
 A project to simplify and streamline the process of setting up the new Navi based AMD cards on Linux, specifically in Manjaro and Arch distributions.
 With Linux Gaming gaining some momentum I decided to take Manjaro for a spin, a highly rated Distro for Gaming that comes preloaded with Steam. Much to my disappointment there's still no support for AMD Navi GPUs, the 5700 and XT. There are several components required and for a Linux beginner getting your desktop up and running may be a challenge. To that ends I've written these scrips to streamline the process. 
+YouTube video for beginners: https://youtu.be/_RRn18bM4i0
 # Note, if visiting this page in the far future this is likely completely unnecessary. I'm conservatively suspecting by December 2019 these scrips will be irrelevant
 Please be aware that I would not recommend running your PC on these packages long term, this is just a stopgap to get Navi working at all. These packages are developer builds still in the process of getting finalized, you may experience issues/crashes/bugs. I will be making a "restoring" script to take you back to the normal mainline packages in the future. 
 # What you'll need
